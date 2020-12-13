@@ -1,0 +1,137 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "india",
+      "patterns": [
+        "How many cases in india?",
+        "corona statistics india?"
+      ],
+      "responses": [
+        "Total cases 9.86M, Recovered 9.36M, Death 143k"
+      ]
+    },
+    {
+      "tag": "worldwide",
+      "patterns": [
+        "How many cases in world?",
+        "corona statistics world?"
+      ],
+      "responses": [
+        "Total cases 71.6M, Recovered 46.8M, Death 1.6M"
+      ]
+    },
+    {
+      "tag": "accessories",
+      "patterns": [
+        "How to stop myself from getting corona?",
+        "How to prevent corona?",
+        "how not to get corona?"
+      ],
+      "responses": [
+        "Wash your hands, cover your face with masks/ shields and follow social distancing protocols"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "emergency",
+      "patterns": [
+        "helpline number",
+        "emergency contact"
+      ],
+      "responses": [
+        "Emergency Helpline Number is 1075",
+        "Call 1075 and calm down"
+      ]
+    },
+    {
+      "tag": "vaccine",
+      "patterns": [
+        "Is vaccine for novel coronavirus?",
+        "Where vaccine for corona ?",
+        "Is vaccine corona?"
+      ],
+      "responses": [
+        "When a disease is new, there is no vaccine until one is developed",
+        "It can take a number of years for a vaccine to be developed.",
+        "There is no vaccine until now."
+      ]
+    },
+    {
+      "tag": "symptoms",
+      "patterns": [
+        "What are symptoms infected with a coronavirus?",
+        "What symptoms coronavirus infection ?"
+      ],
+      "responses": [
+        "It depends on the virus, but common signs include respiratory symptoms, fever, cough, shortness of breath, and breathing difficulties.",
+        "Common signs include respiratory symptoms, fever, cough, shortness of breath,and breathing difficulties.", "Initial symptoms includes respiratory symptoms, fever, cough, shortness of breath. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome, kidney failure and even death."
+      ]
+    },
+    {
+      "tag": "masks",
+      "patterns": [
+        "wear mask should i",
+        "how wear mask?"
+      ],
+      "responses": [
+        "Wearing mask can reduce the possibility of disease transmission from sick,pre-symptomatic and asymptomatic infected person to others",
+        "Masks acts as barrier to prevent an infected person from spreading the infection onwars and furthur"
+      ]
+    }
+  ]
+}
