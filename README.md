@@ -3,3 +3,4 @@ VacQ shows your Vaccine Priority based on various features using a ML model. Our
 
 Contributors: <br><br>
 Tejas K Mukherjee
+Kumar Abhijeet
