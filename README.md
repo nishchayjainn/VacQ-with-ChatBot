@@ -5,3 +5,4 @@ Contributors: <br><br>
 Tejas K Mukherjee<br>
 Shreyash Vardhan<br>
 Kumar Abhijeet<br>
+Krittika Chaturvedi<br>
