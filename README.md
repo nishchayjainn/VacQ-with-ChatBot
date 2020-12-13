@@ -2,6 +2,6 @@
 VacQ shows your Vaccine Priority based on various features using a ML model. Our simple Chatbot answers all your health related queries in these troubling times.
 
 Contributors: <br><br>
+Tejas K Mukherjee<br>
 Shreyash Vardhan<br>
-Tejas K Mukherjee
-Kumar Abhijeet
+Kumar Abhijeet<br>
